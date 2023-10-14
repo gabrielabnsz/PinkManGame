@@ -35,7 +35,7 @@ In Pink Man Game, players embark on an exciting journey as the character Pink Ma
 - Apple Collection: Approach the apples to collect them automatically and increase your score.
 - Enemy Destruction: To destroy enemies, jump on their heads to neutralize them.
 <br />
-
+<br />
 Pink Man Game is an exciting adventure that challenges players to explore, collect, and face enemies in a fun and engaging environment. This game represents not only my effort as a Computer Programming student but also my enthusiasm for developing in this field and bringing even more fun to players in the future!
 <br />
 Play & Enjoy!
